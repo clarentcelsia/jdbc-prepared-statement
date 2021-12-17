@@ -1,0 +1,10 @@
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+# Package Files #
+/src/.jar
+*.war
+*.ear
+/.idea/
+/src/.properties
